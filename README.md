@@ -42,3 +42,4 @@ With over 13 years of experience building scalable, high-performance web applica
 ### 📫 Let’s Connect!
 - LinkedIn: [jasmin-mistry](https://www.linkedin.com/in/jasmin-mistry)
 - GitHub: [@jasminmistry](https://github.com/jasminmistry)
+- Email: [mistry.jasmin@gmail.com](mailto:mistry.jasmin@gmail.com)
