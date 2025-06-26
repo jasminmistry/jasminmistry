@@ -46,3 +46,7 @@ With over 14 years of experience building scalable, high-performance web applica
 - LinkedIn: [jasmin-mistry](https://www.linkedin.com/in/jasmin-mistry)
 - GitHub: [@jasminmistry](https://github.com/jasminmistry)
 - Email: [mistry.jasmin@gmail.com](mailto:mistry.jasmin@gmail.com)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jasminmistry&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
