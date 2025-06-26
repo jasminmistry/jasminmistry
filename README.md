@@ -14,7 +14,7 @@ With over 13 years of experience building scalable, high-performance web applica
 - **Practices:** Agile, TDD, Clean Code, SOLID, Design Patterns
 
 ---
-![GitHub Stats]([https://github-actions-alpha.vercel.app/api?username=jasminmistry&count_private=true&show_icons=true])
+![GitHub Stats](https://github-actions-alpha.vercel.app/api?username=jasminmistry&count_private=true&show_icons=true)
 
 ---
 
