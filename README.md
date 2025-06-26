@@ -14,6 +14,9 @@ With over 13 years of experience building scalable, high-performance web applica
 - **Practices:** Agile, TDD, Clean Code, SOLID, Design Patterns
 
 ---
+![GitHub Stats]([https://github-actions-alpha.vercel.app/api?username=jasminmistry&count_private=true&show_icons=true])
+
+---
 
 ### 🏆 Key Highlights
 - ✅ Migrated a legacy Symfony app from 2.4 to 7 with zero downtime  
