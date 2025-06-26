@@ -6,8 +6,9 @@ With over 13 years of experience building scalable, high-performance web applica
 ---
 
 ### 🔧 Tech Stack & Skills
-- **Languages & Frameworks:** PHP, Symfony (2.4 → 6), Laravel, Node.js, React.js  
-- **Databases & Search:** MySQL, PostgreSQL, Redis, Elasticsearch  
+- **Languages & Frameworks:** PHP, Symfony (2.4 → 7), Laravel, Node.js/React.js, NestJS
+- **Databases & Search:** MySQL, PostgreSQL, Redis, Elasticsearch, MongoDb
+- **Queues:** Apache Kafka, Rabbitmq  
 - **DevOps & CI/CD:** GitHub Actions, Azure DevOps, Docker  
 - **Architecture:** Monolith to Microservices, RESTful APIs, Scalable System Design  
 - **Practices:** Agile, TDD, Clean Code, SOLID, Design Patterns
@@ -15,8 +16,8 @@ With over 13 years of experience building scalable, high-performance web applica
 ---
 
 ### 🏆 Key Highlights
-- ✅ Migrated a legacy Symfony app from 2.4 to 6 with zero downtime  
-- ✅ Re-architected monolith systems into scalable microservices  
+- ✅ Migrated a legacy Symfony app from 2.4 to 7 with zero downtime  
+- ✅ Re-architected monolith systems into scalable microservices using azure native services and apache kafka
 - ✅ Defined solution architecture for product-based companies improving performance by 5x  
 - ✅ Championed coding standards, design reviews, and agile practices  
 - ✅ Led and mentored a team of 40+ developers across multiple tech stacks  
