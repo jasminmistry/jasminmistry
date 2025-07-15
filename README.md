@@ -6,7 +6,7 @@ With over 14 years of experience building scalable, high-performance web applica
 ---
 
 ### 🔧 Tech Stack & Skills
-- **Languages & Frameworks:** PHP, Symfony (2.4 → 7), Laravel, Node.js/React.js, NestJS
+- **Languages & Frameworks:** PHP, Symfony (2.4 → 7), Laravel, Node.js/React.js, NestJS, Sugar CRM
 - **Databases & Search:** MySQL, PostgreSQL, Redis, Elasticsearch, MongoDb
 - **Queues:** Apache Kafka, Rabbitmq  
 - **DevOps & CI/CD:** GitHub Actions, Azure DevOps, Docker  
